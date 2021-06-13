@@ -6,3 +6,5 @@ import json
 data=json.loads(res.text)
 for i in data['data']:
     print(i)
+    
+# test
